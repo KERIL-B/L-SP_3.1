@@ -1,0 +1,20 @@
+C:\Users\pasha\Documents\Visual Studio 2015\Projects\MirrorPlugin\MirrorPlugin\bin\Debug\MirrorPlugin.dll
+C:\Users\pasha\Documents\Visual Studio 2015\Projects\MirrorPlugin\MirrorPlugin\bin\Debug\MirrorPlugin.pdb
+C:\Users\pasha\Documents\Visual Studio 2015\Projects\MirrorPlugin\MirrorPlugin\bin\Debug\PaintInterface.dll
+C:\Users\pasha\Documents\Visual Studio 2015\Projects\MirrorPlugin\MirrorPlugin\obj\Debug\MirrorPlugin.csprojResolveAssemblyReference.cache
+C:\Users\pasha\Documents\Visual Studio 2015\Projects\MirrorPlugin\MirrorPlugin\obj\Debug\MirrorPlugin.dll
+C:\Users\pasha\Documents\Visual Studio 2015\Projects\MirrorPlugin\MirrorPlugin\obj\Debug\MirrorPlugin.pdb
+E:\Загрузки\MirrorPlugin\MirrorPlugin\bin\Debug\MirrorPlugin.dll
+E:\Загрузки\MirrorPlugin\MirrorPlugin\bin\Debug\MirrorPlugin.pdb
+E:\Загрузки\MirrorPlugin\MirrorPlugin\bin\Debug\mscorlib.dll
+E:\Загрузки\MirrorPlugin\MirrorPlugin\bin\Debug\PaintInterface.dll
+E:\Загрузки\MirrorPlugin\MirrorPlugin\bin\Debug\ru\mscorlib.resources.dll
+E:\Загрузки\MirrorPlugin\MirrorPlugin\bin\Debug\normidna.nlp
+E:\Загрузки\MirrorPlugin\MirrorPlugin\bin\Debug\normnfc.nlp
+E:\Загрузки\MirrorPlugin\MirrorPlugin\bin\Debug\normnfd.nlp
+E:\Загрузки\MirrorPlugin\MirrorPlugin\bin\Debug\normnfkc.nlp
+E:\Загрузки\MirrorPlugin\MirrorPlugin\bin\Debug\normnfkd.nlp
+E:\Загрузки\MirrorPlugin\MirrorPlugin\obj\Debug\MirrorPlugin.dll
+E:\Загрузки\MirrorPlugin\MirrorPlugin\obj\Debug\MirrorPlugin.pdb
+E:\Загрузки\MirrorPlugin\MirrorPlugin\obj\Debug\MirrorPlugin.csproj.GenerateResource.Cache
+E:\Загрузки\MirrorPlugin\MirrorPlugin\obj\Debug\MirrorPlugin.MyUserControl.resources
